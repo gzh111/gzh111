@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zhehao Gu from National University of Singapore. Majoring in Data Science and Machine Learning.
 - 👀 I’m interested in AI for economics and finance.Including machine learning in mechanism design, dynamic pricing, algorithmic trading, derivative pricing, risk management etc. 
-- 🌱 I’m currently learning Reinforcement Learning and Generative Adversarial Imitation Learning.
+- 🌱 I’m currently learning Reinforcement Learning and Graph Neural Network.
 - 📫 Reach me through my email: e0950095@u.nus.edu
 
 <!---
